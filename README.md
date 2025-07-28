@@ -19,7 +19,9 @@ This repository is my personal collection of learnings from **NPTEL** and other 
 # 🧠 Why This Repo?
 
 Helps track my learning progress
+
 Serves as a reference for concepts and code patterns
+
 Can help others taking the same NPTEL courses
 
 ---
@@ -27,5 +29,6 @@ Can help others taking the same NPTEL courses
 # 🙌 Acknowledgements
 
 NPTEL – for offering world-class courses for free.
+
 My mentors, professors, and fellow learners.
 
