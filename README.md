@@ -16,7 +16,7 @@ This repository is my personal collection of learnings from **NPTEL** and other 
 
 ---
 
-# 🧠 Why This Repo?
+# 🤔 Why This Repo?
 
 Helps track my learning progress
 
